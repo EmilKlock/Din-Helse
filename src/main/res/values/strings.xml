@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Din-Helse</string>
+    <string name="title_home">Hjem</string>
+    <string name="title_dashboard">Kalender</string>
+    <string name="title_notifications">Meldinger</string>
+    <string name="title_anbefalinger">Anbefalinger</string>
+    <string name="title_resultater">Prøver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
